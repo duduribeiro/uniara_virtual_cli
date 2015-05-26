@@ -1,6 +1,6 @@
 # UniaraVirtualCli
 
-TODO: Write a gem description
+A basic gem to retrieve grades from uniara virtual
 
 ## Installation
 
@@ -20,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Retrieve Grades
+
+```
+uniara_virtual grades
+```
+
 
 ## Contributing
 
