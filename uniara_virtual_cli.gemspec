@@ -6,10 +6,10 @@ require 'uniara_virtual_cli/version'
 Gem::Specification.new do |spec|
   spec.name          = "uniara_virtual_cli"
   spec.version       = UniaraVirtualCli::VERSION
-  spec.authors       = ["Carlos Ribeiro"]
-  spec.email         = ["duduribeiro.gba@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Kadu Ribeiro"]
+  spec.email         = ["mail@carlosribeiro.me"]
+  spec.summary       = "Uniara Virtual CLI"
+  spec.description   = "CLI to access your Uniara Virtual grades from your terminal"
   spec.homepage      = ""
   spec.license       = "MIT"
 
